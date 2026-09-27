@@ -37,7 +37,7 @@ export function ContactForm() {
   };
 
   return (
-    <form className="contact-form translate-x-33 ml-10" onSubmit={handleSubmit}>
+    <form className="contact-form" onSubmit={handleSubmit}>
       <div className="form-row">
         <label htmlFor="name">Name</label>
         <input

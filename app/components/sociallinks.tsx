@@ -12,7 +12,7 @@ const SOCIALS = [
 
 export function SocialLinks() {
     return (
-        <div className="social-row translate-x-70">
+        <div className="social-row">
             {SOCIALS.map((social) => {
                 const external = social.href.startsWith("http");
                 return (
