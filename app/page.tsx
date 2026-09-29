@@ -7,6 +7,7 @@ import { About } from "./components/About";
 import { Contact } from "./components/contact";
 import { Footer } from "./components/footer";
 import { SiteStyles } from "./components/sitestyles";
+import { MediaStyles } from "./components/mediastyles";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       </main>
       <Footer />
       <SiteStyles />
+      <MediaStyles />
     </ThemeProvider>
   );
 }
