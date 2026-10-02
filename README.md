@@ -71,7 +71,7 @@ npm start
 
 ## 🌐 Deployment
 
-This project is deployed on [Vercel](https://vercel.com). Every push to `main` triggers an automatic deployment.
+This project is deployed on [Vercel](https://souravdp.vercel.app/). Every push to `main` triggers an automatic deployment.
 
 ## 📬 Contact
 
