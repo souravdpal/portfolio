@@ -42,11 +42,11 @@ export const PROJECTS: Project[] = [
     // siteUrl: "https://your-deployed-site.com",
   },
   {
-    title: "BuyMore",
+    title: "Icart",
     description:
       "A modern, secure, and highly flexible e-commerce platform built with Next.js, featuring an integrated AI-driven recommendation and decision-making engine. Designed for performance and intelligent user experiences.",
     tags: ["Python", "PostgreSql", "Auth System", "Next-JS 16", "Tailwind"],
-    repoUrl: "https://github.com/souravdpal/improve",
+    repoUrl: "https://github.com/souravdpal/Icart",
     // prof_pic: "BuyMore",
     // siteUrl: "https://your-deployed-site.com",
   },
