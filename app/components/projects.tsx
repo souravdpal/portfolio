@@ -22,7 +22,7 @@ export const PROJECTS: Project[] = [
     repoUrl: "https://github.com/souravdpal/Icart",
     
     prof_pic: "ICart",
-    // siteUrl: "https://your-deployed-site.com",
+    siteUrl: "https://icart-opal.vercel.app/",
   },
   {
     title: "Aiova",
