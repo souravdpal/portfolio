@@ -15,6 +15,16 @@ export interface Project {
 
 export const PROJECTS: Project[] = [
   {
+    title: "Icart",
+    description:
+      "A modern, secure, and highly flexible e-commerce platform built with Next.js, featuring an integrated AI-driven recommendation and decision-making engine. Designed for performance and intelligent user experiences.",
+    tags: ["Python", "PostgreSql", "Auth System", "Next-JS 16", "Tailwind"],
+    repoUrl: "https://github.com/souravdpal/Icart",
+    
+    prof_pic: "ICart",
+    // siteUrl: "https://your-deployed-site.com",
+  },
+  {
     title: "Aiova",
     description:
       "An AI × human metaverse where AI characters come alive and hold real conversations — bring anyone into a living, social space.",
@@ -41,15 +51,7 @@ export const PROJECTS: Project[] = [
     prof_pic: "SelfHelo",
     // siteUrl: "https://your-deployed-site.com",
   },
-  {
-    title: "Icart",
-    description:
-      "A modern, secure, and highly flexible e-commerce platform built with Next.js, featuring an integrated AI-driven recommendation and decision-making engine. Designed for performance and intelligent user experiences.",
-    tags: ["Python", "PostgreSql", "Auth System", "Next-JS 16", "Tailwind"],
-    repoUrl: "https://github.com/souravdpal/Icart",
-    // prof_pic: "BuyMore",
-    // siteUrl: "https://your-deployed-site.com",
-  },
+  
 ];
 
 /** "Hina AI" -> "hina-ai" (used in /projects/hina-ai) */
